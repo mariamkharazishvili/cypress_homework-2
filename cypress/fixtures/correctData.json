@@ -1,0 +1,19 @@
+{
+  "name": "Mariam",
+  "email": "mari123+1111@example.com",
+  "password": "Password123",
+  "month":"March",
+  "day":"2",
+  "year":"2004",
+  "firstName":"Mariam",
+  "lastName":"Kharazishvili",
+  "Company": "google",
+  "Address":"akaki tsereteli 118",
+  "Address2":"dadiani 121",
+  "Country":"United States",
+  "State":"Massachusetts",
+  "City":"Cambridge",
+  "zipCode":"02114",
+  "mobile_num":"558212112"
+
+}
